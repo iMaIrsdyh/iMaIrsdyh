@@ -244,8 +244,6 @@ Collection of:
 <div align="center">
 
 <a href="https://imairsdyh.ifportofolio.com">
-<img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge"/>
-</a>
 
 <a href="https://linkedin.com/in/karimah-irsyadiyah-1605092a5">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
