@@ -175,45 +175,11 @@ https://jurnal.uns.ac.id/ijai/article/view/101774
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, achievements, and experiences.
-
-🔗 https://imairsdyh.ifportofolio.com
-
----
-
-### 📚 EduTrack
-
-Student Management System built using PHP Native & MySQL.
-
-Features:
-
-- Student Management
-- CRUD Operations
-- Database Integration
-- Academic Records
-
----
-
-### 🤖 Machine Learning Projects
-
-Collection of:
-
-- Classification Models
-- Regression Models
-- Data Mining Assignments
-- Machine Learning Research
-
----
-
 # 🌙 Current Focus
 
 ```text
 📚 Studying Informatics at Universitas Andalas
-💻 Building Laravel Applications
+💻 Building Applications
 📊 Learning Machine Learning & Data Science
 📝 Writing Research and Publications
 🚀 Developing Portfolio Projects
@@ -246,8 +212,6 @@ Collection of:
 # 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://imairsdyh.ifportofolio.com">
 
 <a href="https://linkedin.com/in/karimah-irsyadiyah-1605092a5">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
