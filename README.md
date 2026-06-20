@@ -161,13 +161,17 @@ Final Grade: **90**
 
 ### Implementation of the Additive Ratio Assessment Algorithm for Decision Support Recommendations of the Best Coffee Shop in the Marapalam Area, East Padang
 
-📍 Published in Jurnal UNS (2025)
+Published in:
+International Journal of Applied Informatics (Universitas Sebelas Maret)
 
-Research area:
-
-- Decision Support System
+Research Focus:
+- Decision Support Systems (DSS)
+- Additive Ratio Assessment (ARAS)
 - Multi-Criteria Decision Making
-- Data Analysis
+- Recommendation Systems
+
+🔗 Publication:
+https://jurnal.uns.ac.id/ijai/article/view/101774
 
 ---
 
